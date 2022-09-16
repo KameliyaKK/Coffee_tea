@@ -3,7 +3,7 @@ import "@babel/polyfill";
 import './js/sliders';
 import './index.html';
 import 'normalize.css';
-import './styles/main.scss';
+// import './styles/main.scss';
 import './styles/swiper.scss';
 
 
